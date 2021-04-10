@@ -1,0 +1,23 @@
+{
+  "name": "selfie-app",
+  "version": "1.0.0",
+  "description": "takes selfie and saves to database",
+  "main": "index.js",
+  "scripts": {
+    "test": "index"
+  },
+  "repository": {
+    "type": "git",
+    "url": "selfie app"
+  },
+  "keywords": [
+    "selfie",
+    "app"
+  ],
+  "author": "Prathmesh",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.17.1",
+    "nedb": "^1.8.0"
+  }
+}
